@@ -33,8 +33,3 @@ I would like to combine my scientific background with programming and project ma
 
 My project ideas include developing a tool to compare genotyping reports and highlight differences for review, as well as automating PCR and genotyping data analysis to improve efficiency and consistency.
 
-## Links
-
-- [My LinkedIn profile](https://www.linkedin.com/in/natasha-sukhanov-phd/)
-- [Weizmann Institute of Science](https://www.weizmann.ac.il/)
-- [Python course repository](https://github.com/Code-Maven/wis-python-course-2026-10)
