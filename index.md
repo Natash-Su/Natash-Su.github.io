@@ -13,10 +13,10 @@ I currently work in the Genotyping Unit of the Veterinary Resources Department a
 
 **Scientific Interests**
 
-Molecular and cellular biology
-Neuroscience and axon–glia interactions
-Biotechnology and translational research
-Scientific data analysis and laboratory automation
+#Molecular and cellular biology
+#Neuroscience and axon–glia interactions
+#Biotechnology and translational research
+#Scientific data analysis and laboratory automation
 
 **My Goals for This Course**
 
