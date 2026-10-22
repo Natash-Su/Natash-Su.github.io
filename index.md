@@ -13,20 +13,20 @@ I currently work in the Genotyping Unit of the Veterinary Resources Department a
 
 **Scientific Interests**
 
--Molecular and cellular biology
--Neuroscience and axon–glia interactions
--Biotechnology and translational research
--Scientific data analysis and laboratory automation
+- Molecular and cellular biology
+- Neuroscience and axon–glia interactions
+- Biotechnology and translational research
+- Scientific data analysis and laboratory automation
 
 **My Goals for This Course**
 
 I am taking Programming in Python using AI to:
 
--Build a solid foundation in Python.
--Learn to understand, write, and troubleshoot code.
--Use AI thoughtfully to support programming and learning.
--Process scientific data in Excel and CSV files.
--Develop practical tools that automate repetitive laboratory tasks.
+- Build a solid foundation in Python.
+- Learn to understand, write, and troubleshoot code.
+- Use AI thoughtfully to support programming and learning.
+- Process scientific data in Excel and CSV files.
+- Develop practical tools that automate repetitive laboratory tasks.
 
 **Future Plans**
 
