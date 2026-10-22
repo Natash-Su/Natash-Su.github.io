@@ -32,4 +32,4 @@ I am taking Programming in Python using AI to:
 
 I would like to combine my scientific background with programming and project management to develop useful tools for research and biotechnology.
 
-One project idea is a tool that compares genotyping reports and highlights differences for review.
+My project ideas include developing a tool to compare genotyping reports and highlight differences for review, as well as automating PCR and genotyping data analysis to improve efficiency and consistency.
