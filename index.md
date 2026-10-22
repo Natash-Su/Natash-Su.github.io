@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<img src="/1767874761041.jpg" alt="Natasha Sukhanov" width="200">
 
 Welcome! I am a molecular biologist with a **Ph.D.** from the Weizmann Institute of Science. My interests span neuroscience, biotechnology, and using programming to make scientific work more efficient.
 
