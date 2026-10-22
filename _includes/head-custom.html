@@ -1,0 +1,59 @@
+<style>
+.page-header {
+  background: #f0f4f1;
+  color: #243746;
+  padding: 3rem 2rem;
+}
+
+.profile-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  max-width: 900px;
+  margin: auto;
+  text-align: left;
+}
+
+.profile-header img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.profile-header h1 {
+  margin: 0;
+  font-size: 2.2rem;
+}
+
+.profile-header p {
+  margin: 0.7rem 0 0;
+  color: #4f7468;
+  font-size: 1.1rem;
+}
+
+@media (max-width: 600px) {
+  .profile-header {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const header = document.querySelector(".page-header");
+  if (!header) return;
+
+  header.innerHTML = `
+    <div class="profile-header">
+      <img src="/1767874761041.jpg" alt="Natasha Sukhanov">
+      <div>
+        <h1>Natasha Sukhanov, PhD</h1>
+        <p>Molecular Biology · Neuroscience · Python</p>
+      </div>
+    </div>
+  `;
+});
+</script>
