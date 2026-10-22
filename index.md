@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Natasha Sukhanov, PhD
 Molecular Biologist | Researcher | Python Learner
 
