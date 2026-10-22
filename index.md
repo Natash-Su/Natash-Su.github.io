@@ -8,7 +8,7 @@ Welcome! I am a molecular biologist with a **Ph.D.** from the Weizmann Institute
 
 My experience includes academic research and biotechnology, with work in molecular biology, cell culture, assay development, and cellular agriculture.
 
-I currently work in the [Genotyping Unit] (https://www.weizmann.ac.il/vet/units/diagnostic-genotyping/about) of the Veterinary Resources Department at the Weizmann Institute of Science, supporting PCR-based genotyping, quality control, and laboratory workflows.
+I currently work in the [Genotyping Unit](https://www.weizmann.ac.il/vet/units/diagnostic-genotyping/about) of the Veterinary Resources Department at the Weizmann Institute of Science, supporting PCR-based genotyping, quality control, and laboratory workflows.
 
 **Scientific Interests**
 
