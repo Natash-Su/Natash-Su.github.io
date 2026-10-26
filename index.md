@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome! I am a molecular biologist with a **Ph.D.** from the Weizmann Institute of Science. My interests span neuroscience, biotechnology, and using programming to make scientific work more efficient.
+**Welcome**! I am a molecular biologist with a **Ph.D.** from the Weizmann Institute of Science. My interests span neuroscience, biotechnology, and using programming to make scientific work more efficient.
 
 ## Research and Professional Experience
 
